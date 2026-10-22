@@ -1,0 +1,10 @@
+import ReactDOM from 'react-dom/client';
+import '@fontsource/vazirmatn/arabic-400.css';
+import '@fontsource/vazirmatn/arabic-500.css';
+import '@fontsource/vazirmatn/arabic-600.css';
+import '@fontsource/vazirmatn/arabic-700.css';
+import '@fontsource/vazirmatn/arabic-800.css';
+import '@fontsource/vazirmatn/arabic-900.css';
+import App from './App';
+import './style.css';
+ReactDOM.createRoot(document.getElementById('root')!).render(<App/>);

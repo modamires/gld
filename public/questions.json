@@ -1,0 +1,470 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "category": "علوم",
+    "question": "بزرگ‌ترین سیارهٔ منظومهٔ شمسی کدام است؟",
+    "answers": [
+      "زمین",
+      "مشتری",
+      "مریخ",
+      "زهره"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "category": "ریاضی",
+    "question": "حاصل ۷ × ۸ چند است؟",
+    "answers": [
+      "۴۸",
+      "۵۴",
+      "۵۶",
+      "۶۴"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "category": "جغرافیا",
+    "question": "پایتخت ایران کدام شهر است؟",
+    "answers": [
+      "اصفهان",
+      "تبریز",
+      "شیراز",
+      "تهران"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "category": "علوم",
+    "question": "گیاهان در فتوسنتز کدام گاز را از هوا جذب می‌کنند؟",
+    "answers": [
+      "اکسیژن",
+      "نیتروژن",
+      "کربن‌دی‌اکسید",
+      "هلیم"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "category": "ادبیات",
+    "question": "سرایندهٔ شاهنامه کیست؟",
+    "answers": [
+      "حافظ",
+      "فردوسی",
+      "سعدی",
+      "مولوی"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "category": "ریاضی",
+    "question": "یک مثلث چند ضلع دارد؟",
+    "answers": [
+      "۳",
+      "۴",
+      "۵",
+      "۶"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "category": "علوم",
+    "question": "کدام اندام خون را در بدن پمپ می‌کند؟",
+    "answers": [
+      "معده",
+      "کلیه",
+      "قلب",
+      "شش"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "category": "جغرافیا",
+    "question": "بزرگ‌ترین اقیانوس زمین کدام است؟",
+    "answers": [
+      "اطلس",
+      "هند",
+      "منجمد شمالی",
+      "آرام"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "category": "ریاضی",
+    "question": "نصفِ ۹۰ چند است؟",
+    "answers": [
+      "۳۰",
+      "۴۰",
+      "۴۵",
+      "۵۰"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "category": "علوم",
+    "question": "قمر طبیعی زمین چه نام دارد؟",
+    "answers": [
+      "خورشید",
+      "ماه",
+      "زهره",
+      "مریخ"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "category": "زبان",
+    "question": "واژهٔ «کتاب» در انگلیسی کدام است؟",
+    "answers": [
+      "Book",
+      "Tree",
+      "Water",
+      "School"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "category": "علوم",
+    "question": "کدام جانور پستاندار است؟",
+    "answers": [
+      "قورباغه",
+      "کوسه",
+      "دلفین",
+      "تمساح"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "category": "ریاضی",
+    "question": "یک ساعت چند دقیقه است؟",
+    "answers": [
+      "۳۰",
+      "۶۰",
+      "۹۰",
+      "۱۰۰"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "category": "ادبیات",
+    "question": "متضاد واژهٔ «آغاز» چیست؟",
+    "answers": [
+      "شروع",
+      "ابتدا",
+      "پایان",
+      "ادامه"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "category": "جغرافیا",
+    "question": "قاره‌ای که ایران در آن قرار دارد کدام است؟",
+    "answers": [
+      "آفریقا",
+      "اروپا",
+      "آسیا",
+      "آمریکای جنوبی"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "category": "علوم",
+    "question": "کدام ماده در دمای معمول اتاق مایع است؟",
+    "answers": [
+      "آهن",
+      "آب",
+      "اکسیژن",
+      "نمک"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 17,
+    "difficulty": "medium",
+    "category": "ریاضی",
+    "question": "مجموع زاویه‌های داخلی یک مثلث چند درجه است؟",
+    "answers": [
+      "۹۰",
+      "۱۸۰",
+      "۲۷۰",
+      "۳۶۰"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 18,
+    "difficulty": "medium",
+    "category": "علوم",
+    "question": "نماد شیمیایی طلا کدام است؟",
+    "answers": [
+      "Ag",
+      "Fe",
+      "Au",
+      "Cu"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 19,
+    "difficulty": "medium",
+    "category": "ادبیات",
+    "question": "کتاب «گلستان» اثر کدام شاعر است؟",
+    "answers": [
+      "سعدی",
+      "حافظ",
+      "فردوسی",
+      "خیام"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 20,
+    "difficulty": "medium",
+    "category": "ریاضی",
+    "question": "۲۵ درصدِ ۲۰۰ چند است؟",
+    "answers": [
+      "۲۵",
+      "۴۰",
+      "۵۰",
+      "۷۵"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 21,
+    "difficulty": "medium",
+    "category": "علوم",
+    "question": "واحد اندازه‌گیری مقاومت الکتریکی چیست؟",
+    "answers": [
+      "ولت",
+      "آمپر",
+      "وات",
+      "اهم"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 22,
+    "difficulty": "medium",
+    "category": "جغرافیا",
+    "question": "بلندترین قلهٔ ایران کدام است؟",
+    "answers": [
+      "سبلان",
+      "دماوند",
+      "سهند",
+      "دنا"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 23,
+    "difficulty": "medium",
+    "category": "علوم",
+    "question": "نور خورشید تقریباً چند دقیقه طول می‌کشد تا به زمین برسد؟",
+    "answers": [
+      "۱ دقیقه",
+      "۸ دقیقه",
+      "۶۰ دقیقه",
+      "۱۲۰ دقیقه"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 24,
+    "difficulty": "medium",
+    "category": "ریاضی",
+    "question": "مساحت مربعی با ضلع ۶ سانتی‌متر چند سانتی‌متر مربع است؟",
+    "answers": [
+      "۱۲",
+      "۲۴",
+      "۳۰",
+      "۳۶"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 25,
+    "difficulty": "medium",
+    "category": "علوم",
+    "question": "کدام بخش سلول گیاهی عامل اصلی فتوسنتز است؟",
+    "answers": [
+      "هسته",
+      "کلروپلاست",
+      "دیوارهٔ سلولی",
+      "واکوئل"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 26,
+    "difficulty": "medium",
+    "category": "زبان",
+    "question": "جمع واژهٔ انگلیسی «Child» چیست؟",
+    "answers": [
+      "Childs",
+      "Childes",
+      "Children",
+      "Childrens"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 27,
+    "difficulty": "medium",
+    "category": "ریاضی",
+    "question": "کدام عدد، عدد اول است؟",
+    "answers": [
+      "۲۱",
+      "۲۷",
+      "۲۹",
+      "۳۳"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 28,
+    "difficulty": "medium",
+    "category": "علوم",
+    "question": "فراوان‌ترین گاز در جو زمین چیست؟",
+    "answers": [
+      "اکسیژن",
+      "کربن‌دی‌اکسید",
+      "نیتروژن",
+      "هیدروژن"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 29,
+    "difficulty": "hard",
+    "category": "ریاضی",
+    "question": "اگر ۳x + ۵ = ۲۰ باشد، x چند است؟",
+    "answers": [
+      "۳",
+      "۵",
+      "۷",
+      "۱۰"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 30,
+    "difficulty": "hard",
+    "category": "علوم",
+    "question": "عدد اتمی یک عنصر برابر با تعداد کدام ذره است؟",
+    "answers": [
+      "نوترون",
+      "پروتون",
+      "همهٔ ذرات هسته",
+      "پروتون و الکترون"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 31,
+    "difficulty": "hard",
+    "category": "ریاضی",
+    "question": "احتمال آمدن عدد زوج در پرتاب یک تاس سالم شش‌وجهی چقدر است؟",
+    "answers": [
+      "یک‌ششم",
+      "یک‌سوم",
+      "یک‌دوم",
+      "دوسوم"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 32,
+    "difficulty": "hard",
+    "category": "علوم",
+    "question": "کدام موج برای انتشار به محیط مادی نیاز دارد؟",
+    "answers": [
+      "نور مرئی",
+      "موج رادیویی",
+      "پرتو ایکس",
+      "صدا"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 33,
+    "difficulty": "hard",
+    "category": "ریاضی",
+    "question": "وتر یک مثلث قائم‌الزاویه با ضلع‌های قائم ۳ و ۴، چند است؟",
+    "answers": [
+      "۵",
+      "۶",
+      "۷",
+      "۱۲"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 34,
+    "difficulty": "hard",
+    "category": "ادبیات",
+    "question": "در «ابر گریه می‌کند»، کدام آرایه به کار رفته است؟",
+    "answers": [
+      "تضاد",
+      "تشخیص",
+      "تلمیح",
+      "جناس"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 35,
+    "difficulty": "hard",
+    "category": "علوم",
+    "question": "در مدار سری، کدام کمیت در همهٔ مقاومت‌ها یکسان است؟",
+    "answers": [
+      "اختلاف پتانسیل",
+      "توان",
+      "جریان الکتریکی",
+      "مقاومت"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 36,
+    "difficulty": "hard",
+    "category": "ریاضی",
+    "question": "مقدار ۲ به توان ۵ چند است؟",
+    "answers": [
+      "۱۰",
+      "۱۶",
+      "۲۵",
+      "۳۲"
+    ],
+    "correctAnswerIndex": 3
+  }
+]

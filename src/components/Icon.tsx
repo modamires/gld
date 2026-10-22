@@ -1,0 +1,3 @@
+import {Gem,Pickaxe,Volume2,VolumeX,HelpCircle,Pause,Play,ArrowLeft,RotateCcw,Home,Clock,Target,Coins,Sparkles,Check,X,Star,Trophy,ChevronLeft,Lock,MousePointer2,Keyboard,ArrowUpRight,BookOpen,ShieldCheck} from 'lucide-react';
+const icons={gem:Gem,pickaxe:Pickaxe,sound:Volume2,mute:VolumeX,help:HelpCircle,pause:Pause,play:Play,arrow:ArrowLeft,replay:RotateCcw,home:Home,clock:Clock,target:Target,coins:Coins,sparkles:Sparkles,check:Check,x:X,star:Star,trophy:Trophy,chevron:ChevronLeft,lock:Lock,mouse:MousePointer2,keyboard:Keyboard,external:ArrowUpRight,book:BookOpen,shield:ShieldCheck};
+export function Icon({name,size=20,...props}:{name:keyof typeof icons;size?:number;className?:string}){const Comp=icons[name];return <Comp size={size} strokeWidth={1.8} {...props}/>}
